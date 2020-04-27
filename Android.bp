@@ -38,7 +38,7 @@ bootstrap_go_package {
         "soong",
         "soong-env",
         "soong-shared",
-        "soong-aosp",
+        "soong-moon",
     ],
     srcs: [
         "android/androidmk.go",
